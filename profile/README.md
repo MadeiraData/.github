@@ -1,4 +1,4 @@
-[![Welcome - We are Madeira Data Solutions](banner_1024.png)](https://www.madeiradata.com)
+[![Welcome - We are Madeira Data Solutions](https://raw.githubusercontent.com/MadeiraData/.github/main/banner_1024.png)](https://www.madeiradata.com)
 
 
 Please visit our official website at:
